@@ -1,0 +1,15 @@
+* {
+    font-family: arial, serif;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid rgb(19, 116, 161);
+    border-radius: 3px;
+    box-shadow: 2px 2px 5px gray;
+    text-transform: uppercase;
+    background-color: white;
+    cursor: pointer;
+}
